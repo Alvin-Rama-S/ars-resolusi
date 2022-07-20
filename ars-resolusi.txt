@@ -1,0 +1,5 @@
+Rencana Project dan Portofolio Kedepan 
+- Learn PHP Framework (Laravel 9)
+- Membuat Portofolio dan dipost di github
+- Membuat Proyek + Berkolaborasi dengan @teman
+- Marapikan content sosmed
