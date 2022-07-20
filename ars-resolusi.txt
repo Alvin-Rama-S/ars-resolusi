@@ -3,3 +3,4 @@ Rencana Project dan Portofolio Kedepan
 - Membuat Portofolio dan dipost di github
 - Membuat Proyek + Berkolaborasi dengan @teman
 - Marapikan content sosmed
+- Learn JS Framework/Library (React.js)
