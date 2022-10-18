@@ -1,0 +1,64 @@
+html, body{
+    width: 9cm;
+}
+.bg-bronze{
+    background-image: url("../argon/assets/img/VoucherBronze.png");            
+    width: 340px;
+    height: 188px;
+}
+.bg-bronze-back{
+    background-image: url("../argon/assets/img/VoucherBronzeBack.png");            
+    width: 340px;
+    height: 188px;
+}
+.bg-gold{
+    background-image: url("../argon/assets/img/VoucherGold.png");
+    width: 340px;
+    height: 188px;
+}
+.bg-gold-back{
+    background-image: url("../argon/assets/img/VoucherGoldBack.png");
+    width: 340px;
+    height: 188px;
+}
+.bg-silver{
+    background-image: url("../argon/assets/img/VoucherSilver.png");
+    width: 340px;
+    height: 188px;
+}
+.bg-silver-Back{
+    background-image: url("../argon/assets/img/VoucherSilverBack.png");
+    width: 340px;
+    height: 188px;
+}
+.bg-membership{
+    background-image: url("../argon/assets/img/Membership.png");
+    width: 340px;
+    height: 188px;
+}
+.bg-membership-Back{
+    background-image: url("../argon/assets/img/MembershipBack.png");
+    width: 340px;
+    height: 188px;
+}
+
+.name {
+    font-family: 'Montserrat';
+    font-weight: 600px;
+    font-size: 15px;
+    line-height: 12px;
+    padding-right: 0px;
+    padding-top: 118px;
+    color: #ffffff;
+}
+.qr {
+    margin-left: 171px;
+    padding-top: 34px;
+}
+.name-voucher {
+    font-family: 'Montserrat';
+    font-weight: 400px;
+    font-size: 30px;
+    padding-bottom: 0px;
+    
+}
